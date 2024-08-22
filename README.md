@@ -27,7 +27,7 @@ Node Npm Git
 <p>2. Clone Repository</p>
 
 ```
-https://github.com/HamzaBilal527/fastpizzacoapp.git
+https://github.com/HamzaBilal527/wildoasiswebsite.git
 ```
 
 <p>3. Installations</p>
